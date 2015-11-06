@@ -1,0 +1,17 @@
+{
+  "config": {
+    "vendor-dir": "lib"
+  },
+  "minimum-stability": "dev",
+
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  },
+
+  "require": {
+    "rudrax/boot": "dev-master",
+    "jasny/sso": "dev-master"
+  }
+}
