@@ -6,3 +6,6 @@ lib
 config.php
 .settings
 composer.lock
+config
+build
+src/external/components

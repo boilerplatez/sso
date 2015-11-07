@@ -1,0 +1,19 @@
+{
+  "name": "sso",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rx-projects/sso",
+  "authors": [
+    "Lalit Tanwar <lalit.tanwar07@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webmodules-bootstrap": "~3.2.34"
+  }
+}

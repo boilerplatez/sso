@@ -6,12 +6,14 @@
 
   "autoload": {
     "psr-4": {
-      "app\\": "app/"
+      "app\\": "app/",
+      "Parichya\\": "app/service/"
     }
   },
 
   "require": {
     "rudrax/boot": "dev-master",
-    "jasny/sso": "dev-master"
+    "jasny/sso": "dev-master",
+    "gabordemooij/redbean": "dev-master"
   }
 }
